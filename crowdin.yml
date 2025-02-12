@@ -1,0 +1,3 @@
+files:
+  - source: /test_folder/en.xml
+    translation: /test_folder/i18n/%language%
