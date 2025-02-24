@@ -6,4 +6,5 @@
     <string name="signup_button">साइन अप करें</string>
     <string name="error_message">कुछ गलत हो गया। कृपया पुन: प्रयास करें।</string>
     <string name="check-versioning">Check versioning</string>
+    <string name="new-string">new string</string>
 </resources>
