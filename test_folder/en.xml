@@ -6,4 +6,5 @@
     <string name="signup_button">Sign Up</string>
     <string name="error_message">Something went wrong. Please try again.</string>
     <string name="check-versioning">Check versioning</string>
+    <string name="new-string">new string</string>
 </resources>
