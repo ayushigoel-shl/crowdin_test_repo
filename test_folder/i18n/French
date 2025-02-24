@@ -5,4 +5,6 @@
     <string name="login_button">Connexion</string>
     <string name="signup_button">Inscription</string>
     <string name="error_message">Quelque chose a mal tourné. Veuillez réessayer.</string>
+    <string name="check-versioning">Check versioning</string>
+    <string name="new-string">new string</string>
 </resources>
